@@ -1,3 +1,4 @@
+<!-- rubocop:disable Style/ExampleVariable -->
 <a name="readme-top"></a>
 # 📗 Table of Contents
 
